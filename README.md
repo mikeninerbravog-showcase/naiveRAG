@@ -12,7 +12,7 @@ This repository is part of a private showcase. No source code is exposed here.
 
 NaiveRAG reads PDF documents, breaks them into chunks, indexes them semantically, and answers user questions with grounded, contextual responses. All stages are isolated into modular steps, enabling clear, testable, and extendable pipelines.
 
-Execution happens via terminal, with results printed in real time.
+Execution happens via terminal, with results printed in real-time.
 
 ---
 
