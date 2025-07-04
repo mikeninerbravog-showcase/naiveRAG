@@ -3,7 +3,7 @@
 **Role:** AI Workflow Engineer & Full-Stack Python Developer
 **Status:** Production-ready MVP/POC – Modular & Extensible
 
-[NaiveRAG]()
+[NaiveRAG](assets/naiveRAG.png)
 
 ---
 
