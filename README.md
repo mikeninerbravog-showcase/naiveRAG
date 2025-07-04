@@ -6,7 +6,7 @@ This repository is part of a private showcase. No source code is exposed here.
 
 🧠  Naive RAG Architecture
 ───────────────────────────────────────────────
-
+´´´
 📄  Documents
    │
    ▼
@@ -37,7 +37,7 @@ This repository is part of a private showcase. No source code is exposed here.
                       │
                       ▼
 💡  Generative model → 💬 Response
-
+´´´
 
 ---
 
