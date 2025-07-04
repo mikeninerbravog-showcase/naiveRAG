@@ -4,6 +4,8 @@
 
 This repository is part of a private showcase. No source code is exposed here.
 
+[assets/naiveRAG.png]
+
 
 ---
 
