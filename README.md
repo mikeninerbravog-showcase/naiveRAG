@@ -4,40 +4,6 @@
 
 This repository is part of a private showcase. No source code is exposed here.
 
-🧠  Naive RAG Architecture
-───────────────────────────────────────────────
-´´´
-📄  Documents
-   │
-   ▼
-📦  Chunks
-   │
-   ▼
-🧬  Embedding model
-   │
-   ▼
-📚  Vector database
-   │
-   ▼
-📄  Context
-   │
-   ▼
-📝  Prompt template
-   │
-   ▼
-🧠  Generative model
-   │
-   ▼
-💬  Response
-
-💬 Query ──────────────┐
-                      │
-                      ▼
-📝  Prompt template (Query + Context)
-                      │
-                      ▼
-💡  Generative model → 💬 Response
-´´´
 
 ---
 
