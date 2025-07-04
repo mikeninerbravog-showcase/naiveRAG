@@ -1,61 +1,80 @@
-## 📂 NaiveRAG – Retrieval-Augmented Generation (MVP/POC Showcase)
+# 📂 NaiveRAG – Modular Local Retrieval-Augmented Generation (MVP/POC)
 
-**NaiveRAG** is a fully modular Retrieval-Augmented Generation system, designed as a working Proof of Concept (POC) and Minimal Viable Product (MVP) for document-based question answering.
+**Role:** AI Workflow Engineer & Full-Stack Python Developer
+**Status:** Production-ready MVP/POC – Modular & Extensible
 
-This repository is part of a private showcase. No source code is exposed here.
-
-![Naive RAG Diagram](assets/naiveRAG.png)
-
----
-
-### 🧠 What it Does
-
-NaiveRAG reads PDF documents, breaks them into chunks, indexes them semantically, and answers user questions with grounded, contextual responses. All stages are isolated into modular steps, enabling clear, testable, and extendable pipelines.
-
-Execution happens via terminal, with results printed in real-time.
+[NaiveRAG]()
 
 ---
 
-### 🎯 Target Use Cases
+## 📘 Project Overview
 
-* 📚 Legal Document Search
-* 🏥 Clinical Guidelines & Medical Papers
-* 📊 Internal Reports & Financial Memos
-* 🧪 Research & Academia
-* 🛠 Technical Manuals & API Docs
-* 🗂 Knowledge Base Search
+NaiveRAG is a fully operational Retrieval-Augmented Generation (RAG) system designed to answer complex queries using content extracted from PDF documents.
 
----
+The system processes files through a structured sequence of independent modules:
 
-### 🔧 Architecture Highlights
+* **PDF Parsing** → Converts uploaded files into structured text.
+* **Text Chunking** → Splits long documents into overlapping segments for semantic processing.
+* **Vectorization & Indexing** → Transforms chunks into searchable embeddings.
+* **Query Matching** → Identifies the most relevant chunks per query.
+* **Answer Generation** → Produces clear, contextually grounded responses.
 
-* Modular file-based pipeline (text, JSON, vector store)
-* Process logs and outputs are inspectable at every step
-* Handles one or multiple PDFs
-* Ready for real-world extension and integration
+Each step is modular, testable, and interchangeable, making the architecture ideal for both experimentation and real-world extension.
 
 ---
 
-### 👀 See it in Action
+## 🔍 Skills & Deliverables
+
+* Retrieval-Augmented Generation
+* Semantic Text Segmentation
+* Generative AI
+* AI Agent Development
+* Vector-Based Information Retrieval
+
+---
+
+## ✅ Applicable Domains
+
+NaiveRAG can be adapted to a wide range of industries and data contexts:
+
+* **Legal** – Contracts, laws, and case law review
+* **Healthcare** – Medical papers, protocols, clinical guidelines
+* **Enterprise** – Internal procedures, corporate reports, HR documentation
+* **Academia** – Scientific research papers, theses, academic publications
+* **Finance** – Audits, compliance docs, internal memos
+* **Tech Docs** – APIs, developer manuals, system architectures
+
+---
+
+## 🔧 Customization & Integration Potential
+
+NaiveRAG is built for flexibility and integration. Each stage—ingestion, segmentation, indexing, retrieval, generation—can be adapted independently to fit client-specific environments.
+
+Whether integrating into internal knowledge bases, exposing as an API, or embedding into existing tools and dashboards, the architecture supports seamless deployment. It's suitable for private cloud, on-premise, and containerized workflows.
+
+---
+
+## 👀 Demo & Showcase
+
+> **Note:** This is a private showcase repository.
+> No source code is publicly available.
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Demo of RAG running in terminal" width="600"/>
+  <img src="assets/demo.gif" alt="NaiveRAG demo execution" width="600"/>
 </p>
 
 ---
 
-### 📩 Contact
+## 📩 Contact
 
-This is a professional demo for commercial exploration.
-If you're interested in adapting this architecture to your company or use case, please contact:
+For partnerships, integration requests, or licensing inquiries:
 
 📧 **[coder1@bravog.com](mailto:coder1@bravog.com)**
 🌐 **[bravog.com](https://bravog.com)** (coming soon)
 
 ---
 
-### 🌐 Available Languages
+## 🌐 Other Languages
 
-* `README.md` → English 🇺🇸
-* `README.pt-br.md` → Português do Brasil 🇧🇷 *(soon)*
-* `README.es.md` → Español Latinoamericano 🇪🇸 *(soon)*
+* [`README.pt-br.md`](README.pt-br.md) – Português do Brasil 🇧🇷
+* [`README.es.md`](README.es.md) – Español Sudamérica 🇪🇸
