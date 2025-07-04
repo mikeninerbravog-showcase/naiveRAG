@@ -1,7 +1,3 @@
-Perfeito, Mike. A seguir está o **README inicial em inglês americano**, pronto para publicação no repositório GitHub (vitrine). Logo em seguida posso gerar as versões em **português brasileiro** e **espanhol sul-americano** como arquivos `.md`.
-
----
-
 ## 📂 NaiveRAG – Retrieval-Augmented Generation (MVP/POC Showcase)
 
 **NaiveRAG** is a fully modular Retrieval-Augmented Generation system, designed as a working Proof of Concept (POC) and Minimal Viable Product (MVP) for document-based question answering.
@@ -61,7 +57,3 @@ If you're interested in adapting this architecture to your company or use case, 
 * `README.md` → English 🇺🇸
 * `README.pt-br.md` → Português do Brasil 🇧🇷 *(soon)*
 * `README.es.md` → Español Latinoamericano 🇪🇸 *(soon)*
-
----
-
-Deseja que eu gere agora as versões `README.pt-br.md` e `README.es.md`?
