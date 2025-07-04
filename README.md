@@ -1,6 +1,7 @@
 # 📂 NaiveRAG – Modular Local Retrieval-Augmented Generation (MVP/POC)
 
 **Role:** AI Workflow Engineer & Full-Stack Python Developer
+
 **Status:** Production-ready MVP/POC – Modular & Extensible
 
 ![Naive RAG Diagram](assets/naiveRAG.png)
